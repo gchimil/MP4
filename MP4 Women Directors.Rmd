@@ -1,6 +1,6 @@
 ---
 title: "MP4 Women Directors"
-author: "Ivette Viramontes"
+author: "Ivette Viramontes, Guadalupe Chimil"
 date: "5/8/2018"
 output: html_document
 ---
