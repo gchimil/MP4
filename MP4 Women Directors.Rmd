@@ -1,6 +1,6 @@
 ---
 title: "MP4 Women Directors"
-author: "Ivette Viramontes, Guadalupe Chimil"
+author: "Ivette Viramontes, Annah Lee, & Guadalupe Chimil"
 date: "5/8/2018"
 output: html_document
 ---
