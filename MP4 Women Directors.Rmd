@@ -6,7 +6,7 @@ output: html_document
 ---
 
 <<<<<<< HEAD
-```{r}
+```{r} 
 library(mdsr)
 library(RMySQL)
 library(tidyverse)
